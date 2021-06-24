@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>tomkizz's blog</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link href="icon.png" rel="shortcut icon" sizes="32x32">
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/brands.min.css" rel="stylesheet">
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/solid.min.css" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Droid+Sans+Mono" rel="stylesheet">
+ <link href="/main.css" rel="stylesheet">
+</head>
+<body class="article">
+  <header>
+		<div class="photo"></div>
+		<h1 class="name"><a href="/">Артём, @tomkizz</a></h1>
+		<div class="social"><a href="https://github.com/tomkizz" target="_blank"></a><a></a><a></a><a></a></div> 
+	</header>
+	<main>
+		<div class="date">22 June 2021</div>
+		<h2>Vim Mastering — Пособие по использованию Vim</h2>
+		<div class="img" style="background-image: url(vim_screen.png)"></div>
+		<p>Находясь в своём любимом текстовом редакторе, мы хотим форматировать текст наиболее быстро, легко и в то же время эффективно. Vim — является одним из наиболее очевидных кандидатов на такой случай. Однако не все могут сразу влиться во всю экосистему данной программы, и к слову сказать, она довольно не маленькая. Поэтому я собрал наиболее простой родмэп для обширного изучения Vim.</p>
+	</main>
+	<footer>version 2, ≈ 10kb</footer>
+</body>
+</html>
+
+
